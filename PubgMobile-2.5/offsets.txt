@@ -1,7 +1,7 @@
 namespace offsets
 {
-    DWORD Gname = 0;
-    DWORD Gworld = 0;
+    DWORD Gname = 0x852AB38;
+    DWORD Gworld = 0x8858574;
 
     DWORD PersistentLevel = 0x20;
     DWORD NetDriver = 0x24;
